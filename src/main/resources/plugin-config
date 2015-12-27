@@ -1,0 +1,3 @@
+name=URL ENCODER PLUGIN
+clazz=com.epam.mentoring.plugin.UrlEncoderPlugin
+description=(Prints encoded url string. Input -> not encoded url.)
